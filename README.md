@@ -10,4 +10,6 @@ The user can also bring down a custom textbox where is allowed to type in a sent
 
 Is possible also to change accent and voices.
 
-Web Speech API is still a sperimental technology. This application use Speech Synthesis whic is supporte by almost every browsers exept IE and Opera for Android.
+Web Speech API is still a sperimental technology. This application use Speech Synthesis whic is supported by almost every browsers exept IE and Opera for Android.
+
+You can find more info at: https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API
